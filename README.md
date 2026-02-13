@@ -3,7 +3,7 @@
 MAIMA analyzes your swap and bridge needs and returns a **report** (accuracy, gas fee, optimistic estimates). Describe what you want in natural language, see **process tracking** (protocols checked, choose one), and get the best option. Deploy workflows to Chainlink when you have Early Access.
 
 **Repository:** [https://github.com/mrselva-eth/MAIMA](https://github.com/mrselva-eth/MAIMA)  
-**Want access Contact:** [Contact here](https://www.linkedin.com/in/mrselvadoteth/)
+**Want access Contact:** [Contact here](https://www.linkedin.com/in/mrselvadoteth/) .
 **Default branch:** `main`
 
 ## Key features
